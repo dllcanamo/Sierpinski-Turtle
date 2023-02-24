@@ -31,6 +31,7 @@ def start_sierpinksi():
         levi.dot(size = const.DOT_SIZE)
         chosen = midpoint
 
+#starting the drawing
 draw_outer()
 start_sierpinksi()
 
